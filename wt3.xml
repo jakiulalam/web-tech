@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<employees>
+
+
+<employee id="1">
+
+
+<name>
+
+     <fname>John</fname>
+	 <lname>Doe</lname>
+
+</name>
+
+<address>
+
+       <flat/>
+	   <house>#38</house>
+	   <road>#3</road>
+	   <area>Bananianani</area>
+	   <city>Dhaka</city>
+
+</address>
+
+<dept>Sales</dept>
+
+<salary>$2000</salary>
+
+</employee>
+
+
+
+<employee id="2">
+
+
+<name>
+
+     <fname>Ala</fname>
+	 <lname>Vaski</lname>
+
+</name>
+
+<address>
+
+       <flat/>
+	   <house>#38</house>
+	   <road>#3</road>
+	   <area>Motijheel</area>
+	   <city/>
+
+</address>
+
+<dept>Human_Resource</dept>
+
+<salary>$3000</salary>
+
+</employee>
+
+
+
+</employees>
